@@ -1,5 +1,6 @@
 def add (x,y):
 	z = x + y
+	print ("This code is for addition.\n")
 	print ("The addition is: ",z)
 	return z
 	
