@@ -5,8 +5,7 @@ def add (x,y):
 	
 
 if __name__ =="__main__":
-	print ("Enter any two integers")
-	a = int (input())
-	b = int (input())
+	a=10
+	b=5
 	add (a,b)
 
